@@ -1,0 +1,9 @@
+target/
+lib_managed/
+src_managed/
+project/boot/
+scala-spike.sublime-project
+scala-spike.sublime-workspace
+
+statsd/.history
+.history
